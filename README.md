@@ -1,4 +1,8 @@
-﻿# Config 2.0.0 Build(61)  Release Candidate- 17/01/2023
+﻿# Config 2.0.0 Build(62)  Release Candidate- 17/01/2023
+## Correções:
+### - Ordenação da árvore de rede na tela de varredura
+
+# Config 2.0.0 Build(61)  Release Candidate- 17/01/2023
 ## Correções:
 ### - Alterada a exibição de mensagem de atualização do sistema
 ### - Alterada forma do change log
