@@ -1,4 +1,4 @@
-﻿# Config 2.0.0 Build(59) - 17/01/2023
+﻿# Config 2.0.0 Build(59)  Release Candidate- 17/01/2023
 ## Correções:
 ### - Corrige movimentação dos blocos na árvore do projeto
 ### - Corrige geração de comandos IR Classic na atualização de drivers
