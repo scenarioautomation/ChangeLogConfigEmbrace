@@ -1,4 +1,21 @@
-﻿# Config 2.0.0 Build(62)  Release Candidate- 17/01/2023
+﻿# Config 2.0.0 Build(65) - 19/01/2023
+## Features:
+### - Circuito de luminárias na árvore do projeto
+
+## Correções:
+### - Corrige atualização de informações da controlador ao conectar manualmente
+### - Cria botão do ativador modo dormir no projeto gráfico
+### - Corrige acentuação de nome "Instalação"
+### - Remove possibilidade de criar pasta Atividades manualmente
+### - Corrige caminho de salvamento de projeto após importação
+### - Reseta os icones na tela de rede após uma nova varredura
+### - Corrige duplicação de atividade AV
+### - Corrige exibição de auxiliares de módulos após salvar e carregar projeto
+### - Corrige conexões padrão para dispositivos que vinculam na IPM10
+### - Corrige exibição do nome do HUB
+### - Corrige movimentação de pasta entre ambientes diferentes 
+
+# Config 2.0.0 Build(62)  Release Candidate- 17/01/2023
 ## Correções:
 ### - Ordenação da árvore de rede na tela de varredura
 
