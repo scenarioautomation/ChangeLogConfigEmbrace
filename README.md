@@ -1,8 +1,6 @@
 ﻿# Config 2.0.0 Build(65) - 19/01/2023
-## Features:
-### - Circuito de luminárias na árvore do projeto
-
 ## Correções:
+### - Circuito de luminárias na árvore do projeto
 ### - Corrige atualização de informações da controlador ao conectar manualmente
 ### - Cria botão do ativador modo dormir no projeto gráfico
 ### - Corrige acentuação de nome "Instalação"
