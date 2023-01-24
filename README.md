@@ -1,4 +1,34 @@
-﻿# Config 2.0.0 Build(65) - 19/01/2023
+﻿# Config 2.0.0 Build(66) - 24/01/2023
+## Features:
+### - Implementa opção de deletar comando de macro pela tecla DELETE
+### - Movimentação de comandos para macro realizado pelos botões de Subir/Descer
+
+## Correções:
+### - Corrige abertura da tela de configuração ao expandir ou contrair itens da árvore do projeto
+### - Corrige macros exibindo mais de uma atividade na árvore
+### - Corrige seleção dos campos ao editar comandos da macro
+### - Corrige árvore de macro sendo removida ao recarregar a tela de configuração
+### - Corrige corte a opção "Domingo" na tela de configuração de Evento
+### - Corrige nome exibido ao editar teclas e botões com KPView personalizado
+### - Corrige atualização de projetos e projetos gráficos ao mover blocos
+### - Corrige criação do comando de macro em modo de edição
+### - Altera a opção informativa de tensão DC (12V ou 24V) para a MPL4-4R
+### - Corrige criação de novos dispositivos no projeto em modo de edição
+### - Corrige criação de novas funções de Driver em modo de edição
+### - Corrige criação de novas funções RF em modo de edição
+### - Corrige comportamento de edição de cenas de Room Control
+### - Corrige exibição de canais DVR deslocados do ambiente original
+### - Corrige erros ao adicionar múltiplos itens
+### - Corrige ocasióes raras onde alguns a árvore do projeto selecionava itens aleatórios após outro item ser renomeado
+### - Corrige exibição de cenas de madrugada na tela de Cenas de Room Control
+### - Corrige edição de atividades AV apagando os outros comandos da atividade
+### - Corrige cortes em campos das telas de Teclados e Sensores
+### - Corrige para não adicionar atividade renomeando
+### - Corrige duplicação de atividades para manter comandos e a respectiva ordem
+### - Corrige ocasiões em que era possível adicionar comandos dentro do comando "Atividade Audio e Vídeo" 
+### - Corrige problema com importação de projeto com redes com IP alterado
+
+# Config 2.0.0 Build(65) - 19/01/2023
 ## Correções:
 ### - Circuito de luminárias na árvore do projeto
 ### - Corrige atualização de informações da controlador ao conectar manualmente
