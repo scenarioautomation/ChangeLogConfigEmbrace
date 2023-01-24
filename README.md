@@ -27,6 +27,10 @@
 ### - Corrige duplicação de atividades para manter comandos e a respectiva ordem
 ### - Corrige ocasiões em que era possível adicionar comandos dentro do comando "Atividade Audio e Vídeo" 
 ### - Corrige problema com importação de projeto com redes com IP alterado
+### - Corrige carregamento de redes Offline na tela de varredura
+### - Corrige Salvamento de projeto após enviar para a controladora
+### - Corrige opção de reiniciar iluminação após envio
+### - Corrige vínculos de rede que eram refeitos sem necessidade
 
 # Config 2.0.0 Build(65) - 19/01/2023
 ## Correções:
