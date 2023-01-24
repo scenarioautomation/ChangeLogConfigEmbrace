@@ -1,4 +1,10 @@
-﻿# Config 2.0.0 Build(66) - 24/01/2023
+﻿# Config 2.0.0 Build(67) - 24/01/2023
+## Correções:
+### - Corrige exibição do botão de atividor modo dormir quando possuir link
+### - Corrige adição, remoção e substituição de drivers do projeto
+### - Corrige links de Hold e Release com funcionamento invertido
+
+# Config 2.0.0 Build(66) - 24/01/2023
 ## Features:
 ### - Implementa opção de deletar comando de macro pela tecla DELETE
 ### - Movimentação de comandos para macro realizado pelos botões de Subir/Descer
