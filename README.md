@@ -1,4 +1,12 @@
-﻿# Config 2.0.0 Build(67) - 24/01/2023
+﻿# Config 2.0.0 Build(69) - 25/01/2023
+## Feature:
+### - Implementa tratamento para templates de drivers integração
+
+## Correções:
+### - Corrige associação de itens v2 depois de carregar
+### - Corrige criação de componentes AV no projeto gráfico
+
+# Config 2.0.0 Build(67) - 24/01/2023
 ## Correções:
 ### - Corrige exibição do botão de atividor modo dormir quando possuir link
 ### - Corrige adição, remoção e substituição de drivers do projeto
