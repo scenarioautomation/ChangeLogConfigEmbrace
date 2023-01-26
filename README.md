@@ -1,4 +1,13 @@
-﻿# Config 2.0.0 build(71) - 26/01/2023
+﻿# Config 2.0.0 build(72) - 26/01/2023
+## Correções:
+### - Corrige atualização de funções padrão ao carregar drivers de novo projeto
+### - Corrige atualização de atividades ao substituir macros com lista de blocos diferentes
+### - Corrige deleção de comandos de atividades ao substituir drivers
+### - Remove desvinculação de Rede de Itens de Rede ao realizar varredura e não encontra-los
+### - Corrige alteração de projeto ao adicionar ambientes
+### - Corrige alteração de projeto gráfico ao adicionar objetos em pastas
+
+# Config 2.0.0 build(71) - 26/01/2023
 ## Correções:
 ### - Corrige seleção dos botões na árvore de drivers em equipamentos
 ### - Corrige substituição do arquivo de drivers no projeto
