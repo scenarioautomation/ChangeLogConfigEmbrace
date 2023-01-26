@@ -1,4 +1,10 @@
-﻿# Config 2.0.0 Build(70) - 25/01/2023
+﻿# Config 2.0.0 build(71) - 26/01/2023
+## Correções:
+### - Corrige seleção dos botões na árvore de drivers em equipamentos
+### - Corrige substituição do arquivo de drivers no projeto
+### - Corrige atualização de atividades ao substituir drivers
+
+# Config 2.0.0 Build(70) - 25/01/2023
 ## Correções:
 ### - Corrige objetos dentro de pastas na geração do projeto gráfico
 ### - Corrige nome do EB-SDM2-LED-WIFI na tela de rede
