@@ -1,4 +1,17 @@
-﻿# Config 2.0.0 build(72) - 26/01/2023
+﻿# Config 2.0.0 Build(73) - 27/01/2023
+## Correções:
+### - Corrige sobrescrever driver criado/editado
+### - Corrige exportação e mensagens de erro após exportação
+### - Corrige atualização de título da janela e texto de instalação da barra de status
+### - Corrige leitura dos templates ao carregar projeto
+### - Corrige criação de componentes do projeto gráfico
+### - Corrige filtragem de dispositivos pelo número de série
+### - Corrige salvamento de atributos do projeto
+### - Corrige ordenação de blocos deslocados na tela de atividades AV
+### - Corrige tamanho das colunas do Modo Zigbee
+### - Corrige ordenamento de ambientes na geração de projeto
+
+# Config 2.0.0 build(72) - 26/01/2023
 ## Correções:
 ### - Corrige atualização de funções padrão ao carregar drivers de novo projeto
 ### - Corrige atualização de atividades ao substituir macros com lista de blocos diferentes
