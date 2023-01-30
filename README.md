@@ -1,4 +1,10 @@
-﻿# Config 2.0.0 Build(74) - 30/01/2023
+﻿# Config 2.0.0 Build(75) - 30/01/2023
+## Correções:
+### - Corrige confirmação de envio de projeto
+### - Corrige validação para otimização de rede no envio de projeto
+### - Corrige criação de componentes do projeto gráfico referente aos canais DVR
+
+# Config 2.0.0 Build(74) - 30/01/2023
 ## Correções:
 ### - Corrige importação de alteração de eventos
 ### - Corrige importação de alteração de imagem do projeto gráfico
