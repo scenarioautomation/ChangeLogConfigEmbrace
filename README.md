@@ -1,4 +1,9 @@
-﻿# Config 2.0.0 Build(73) - 27/01/2023
+﻿# Config 2.0.0 Build(74) - 30/01/2023
+## Correções:
+### - Corrige importação de alteração de eventos
+### - Corrige importação de alteração de imagem do projeto gráfico
+
+# Config 2.0.0 Build(73) - 27/01/2023
 ## Correções:
 ### - Corrige sobrescrever driver criado/editado
 ### - Corrige exportação e mensagens de erro após exportação
