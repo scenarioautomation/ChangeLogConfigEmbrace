@@ -1,4 +1,10 @@
-﻿# Config 2.0.0 Build(75) - 30/01/2023
+﻿# Config 2.0.0 Build(76) - 31/01/2023
+## Correções:
+### - Corrige salvamento dos conectores de dispositivos Wifi
+### - Corrige estrutura de ambientes para permissões de usuário na App
+### - Corrige alteração de projeto gráfico ao alterar ambientes
+
+# Config 2.0.0 Build(75) - 30/01/2023
 ## Correções:
 ### - Corrige confirmação de envio de projeto
 ### - Corrige validação para otimização de rede no envio de projeto
