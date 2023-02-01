@@ -1,4 +1,13 @@
-﻿# Config 2.0.0 Build(76) - 31/01/2023
+﻿# Config 2.0.0 Build(78) - 01/02/2023
+## Correções:
+### - Corrige variáveis e links complementares de dispositivos bidirecionais
+### - Corrige exibição de avisos de envio de projeto
+### - Corrige nome da cena Dormir com Movimento
+### - Corrige alinhamento e exibição dos controles da tela de cortina
+### - Corrige exibição de erros ao salvar projeto gráfico custom
+### - Corrige exibição de erros na importação de projetos gráficos custom
+
+# Config 2.0.0 Build(76) - 31/01/2023
 ## Correções:
 ### - Corrige salvamento dos conectores de dispositivos Wifi
 ### - Corrige estrutura de ambientes para permissões de usuário na App
