@@ -1,4 +1,10 @@
-﻿# Config 2.0.0 Build(78) - 01/02/2023
+﻿# Config 2.0.0 Build(80) - 03/02/2023
+## Correções:
+### - Corrige seleção de função padrão na edição de drivers
+### - Corrige texto de entrada auxiliar de módulo
+### - Corrige carregamento de Fechadura
+
+# Config 2.0.0 Build(78) - 01/02/2023
 ## Correções:
 ### - Corrige variáveis e links complementares de dispositivos bidirecionais
 ### - Corrige exibição de avisos de envio de projeto
