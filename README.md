@@ -1,4 +1,32 @@
-﻿# Config 2.0.0 Build(80) - 03/02/2023
+﻿# Problemas conhecidos
+### - Problema ao mover\reposicionar um item dentro de um ambiente
+### - Texto na tela de rede está com coloração azul forte, dificultando ver o texto
+### - Falta implementação de modo teste de drivers
+### - Problema ao salvar arquivo de login em alguns casos especificos no MAC, sendo necessário login toda abertura do Config
+### - Ao remover um link de modo dormir, o projeto gráfico não é gerado novamente
+### - Filtro da árvore de ambientes, manter estado da árvore antes do filtro
+### - Dados clientes devem ser obrigatórios no inicio do projeto e não no fim
+### - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
+
+# Config 2.0.0 Build(87) - 07/02/2023
+## Feature:
+### - Implementa configuração de saída no modo teste da EB-MPL4-4R
+
+## Correções:
+### - Correção na ordenação de blocos no projeto gráfico
+
+# Config 2.0.0 Build(84) - 07/02/2023
+## Feature:
+### - Implementa links de data e hora no módulo dia/noite
+### - Implementa tratamento de condicionais de data e hora nos comandos de macro
+### - Implementa valores em porcentagem e hexadecimal nos comandos de macro
+
+## Correções:
+### - Corrige atualização de atividades ao substituir dispositivos com números diferentes de blocos e funções padrões diferentes
+### - Corrige validação ao editar comandos de drivers IR, em alguns casos de comandos pequenos podia gerar mais de 1 mensagem de alerta
+### - Corrige tratamento de template de drivers antigos. Anteriormente existia apenas 1 template para drivers, hoje existe 1 para cada conexão.
+
+# Config 2.0.0 Build(80) - 03/02/2023
 ## Correções:
 ### - Corrige seleção de função padrão na edição de drivers
 ### - Corrige texto de entrada auxiliar de módulo
