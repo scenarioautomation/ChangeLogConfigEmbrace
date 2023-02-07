@@ -8,6 +8,10 @@
 ### - Dados clientes devem ser obrigatórios no inicio do projeto e não no fim
 ### - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
 
+# Config 2.0.0 Build(88) - 07/02/2023
+## Correções:
+### - Corrige edição de comandos de macro ao adicionar comandos repetidos  de hora e data
+
 # Config 2.0.0 Build(87) - 07/02/2023
 ## Feature:
 ### - Implementa configuração de saída no modo teste da EB-MPL4-4R
