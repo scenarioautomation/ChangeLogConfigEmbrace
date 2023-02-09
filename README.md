@@ -1,12 +1,17 @@
 ﻿# Problemas conhecidos
 ### - Problema ao mover\reposicionar um item dentro de um ambiente
-### - Texto na tela de rede está com coloração azul forte, dificultando ver o texto
 ### - Falta implementação de modo teste de drivers
 ### - Problema ao salvar arquivo de login em alguns casos especificos no MAC, sendo necessário login toda abertura do Config
 ### - Ao remover um link de modo dormir, o projeto gráfico não é gerado novamente
 ### - Filtro da árvore de ambientes, manter estado da árvore antes do filtro
-### - Dados clientes devem ser obrigatórios no inicio do projeto e não no fim
 ### - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
+
+# Config 2.0.0 Build(90) - 09/02/2023
+## Correções:
+### - Melhoria nas cores de seleção de itens na treeview 
+### - Força validação de campos de cliente no inicio do projeto
+### - Corrige exibição e atualização de comandos de drivers IP e Serial quando o usuário altera o formato de exibição
+### - Corrige auto rolagem ao adicionar itens no projeto
 
 # Config 2.0.0 Build(89) - 09/02/2023
 ## Correções:
