@@ -8,6 +8,15 @@
 ### - Dados clientes devem ser obrigatórios no inicio do projeto e não no fim
 ### - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
 
+# Config 2.0.0 Build(89) - 09/02/2023
+## Correções:
+### - Adiciona compatibilidade de links do módulo dia/noite para projetos do Config V2 antigos
+### - Corrige renomeação de item do projeto com a tecla de atalho 'F2'
+### - Corrige comportamento dos controles de edição de macro 
+### - Corrige modo de programação de Fita Led no projeto gráfico automático
+### - Corrige otimização de rede em projetos legado com alterações no Config V2
+### - Corrige carregamento de links de dispositivos integração para realização de par
+
 # Config 2.0.0 Build(88) - 07/02/2023
 ## Correções:
 ### - Corrige edição de comandos de macro ao adicionar comandos repetidos  de hora e data
