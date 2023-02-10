@@ -6,6 +6,12 @@
 ### - Filtro da árvore de ambientes, manter estado da árvore antes do filtro
 ### - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
 
+# Config 2.0.0 Build(93) - 10/02/2023
+## Correções:
+### - Melhora o tratamento de desconexão e reconexão da AC com Config
+### - Adiciona aviso de NTL com mais de 80 dispositivos no envio de projeto
+### - Melhora busca de IP na rede antes da alteração de IP de Controladora e Dispositivos
+
 # Config 2.0.0 Build(92) - 09/02/2023
 ## Feature:
 ### - Proteção no tamanho de nome de projetos do Config 
