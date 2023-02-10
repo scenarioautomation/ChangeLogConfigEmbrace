@@ -6,6 +6,15 @@
 ### - Filtro da árvore de ambientes, manter estado da árvore antes do filtro
 ### - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
 
+# Config 2.0.0 Build(92) - 09/02/2023
+## Feature:
+### - Proteção no tamanho de nome de projetos do Config 
+
+## Correções:
+### - Corrige lentidão ao carregar árvore de rede com muitos itens
+### - Corrige exibição de pasta de DVR do na listagem de atividades
+### - Corrige movimentação de itens na árvore utilizando o MAC
+
 # Config 2.0.0 Build(90) - 09/02/2023
 ## Correções:
 ### - Melhoria nas cores de seleção de itens na treeview 
