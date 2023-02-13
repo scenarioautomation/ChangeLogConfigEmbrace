@@ -1,10 +1,30 @@
 ﻿# Problemas conhecidos
-### - Problema ao mover\reposicionar um item dentro de um ambiente
-### - Falta implementação de modo teste de drivers
-### - Problema ao salvar arquivo de login em alguns casos especificos no MAC, sendo necessário login toda abertura do Config
-### - Ao remover um link de modo dormir, o projeto gráfico não é gerado novamente
-### - Filtro da árvore de ambientes, manter estado da árvore antes do filtro
-### - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
+### 01 - Problema ao mover\reposicionar um item dentro de um ambiente
+### 02 - Falta implementação de modo teste de drivers
+### 03 - Problema ao salvar arquivo de login em alguns casos especificos no MAC, sendo necessário login toda abertura do Config
+### 04 - Ao remover um link de modo dormir, o projeto gráfico não é gerado novamente
+### 05 - Filtro da árvore de ambientes, manter estado da árvore antes do filtro
+### 06 - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
+### 07 - Icone de alguns itens desaparem da árvore em situações especificas
+### 08 - Na tela de projeto grafico, os indices de blocos de driver de integração não são exibidos
+### 09 - Remover scroll da barra horizontal de NTL(tela de informações)
+### 10 - Seta movimenta itens na árvore mas não atualiza na tela central do Config
+### 11 - Algumas vezes as progressbar somem
+### 12 - Algumas vezes na tela de RC e Cenas as scroll bar aparecem em ambas as treeview(deveria ser 1 global)
+### 13 - Importação de driver JAVA("esquema usuario")
+### 14 - Modo Teste de driver
+### 15 - Função de "Teste de dispositivo"
+### 16 - Ao remover e adicionar links no ativador do modo dormir não está gerando projeto gráfico
+### 17 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
+### 18 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
+
+# Config 2.0.0 Build(95) - 13/02/2023
+## Correções:
+### - Corrige o salvamento de blocos deslocados
+### - Corrige a atualização de dados da controladora exibidos na tela
+### - Corrige problemas na edição/renomear itens do projeto pela tecla TAB
+### - Permite renomear cenas de Room Control pela tecla F2
+### - Corrige envio de projeto com cortina associada ao RLY2-Wifi
 
 # Config 2.0.0 Build(93) - 10/02/2023
 ## Correções:
