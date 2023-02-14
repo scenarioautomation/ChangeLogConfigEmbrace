@@ -1,14 +1,14 @@
 ﻿# Problemas conhecidos
-### 01 - Problema ao mover\reposicionar um item dentro de um ambiente
+### 01 - OK - Problema ao mover\reposicionar um item dentro de um ambiente
 ### 02 - Falta implementação de modo teste de drivers
-### 03 - Problema ao salvar arquivo de login em alguns casos especificos no MAC, sendo necessário login toda abertura do Config
-### 04 - Ao remover um link de modo dormir, o projeto gráfico não é gerado novamente
+### 03 - OK - Problema ao salvar arquivo de login em alguns casos especificos no MAC, sendo necessário login toda abertura do Config
+### 04 - OK - Ao remover um link de modo dormir, o projeto gráfico não é gerado novamente
 ### 05 - Filtro da árvore de ambientes, manter estado da árvore antes do filtro
 ### 06 - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
 ### 07 - OK - Icone de alguns itens desaparem da árvore em situações especificas 
 ### 08 - OK - Na tela de projeto grafico, os indices de blocos de driver de integração não são exibidos  
 ### 09 - OK - Remover scroll da barra horizontal de NTL(tela de informações) 
-### 10 - Seta movimenta itens na árvore mas não atualiza na tela central do Config
+### 10 - OK - Seta movimenta itens na árvore mas não atualiza na tela central do Config
 ### 11 - Algumas vezes as progressbar somem
 ### 12 - OK - Algumas vezes na tela de RC e Cenas as scroll bar aparecem em ambas as treeview(deveria ser 1 global) 
 ### 13 - Importação de driver JAVA("esquema usuario")
@@ -17,6 +17,15 @@
 ### 16 - Ao remover e adicionar links no ativador do modo dormir não está gerando projeto gráfico
 ### 17 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
 ### 18 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
+
+# Config 2.0.0 Build(97) - 14/02/2023
+## Correções:
+### - (10) Seta movimenta itens na árvore mas não atualiza na tela central do Config
+### - Corrige seleção de logs na controladora nas Preferências de Projeto
+### - Corrige tamanho e exibição dos ícones na árvore de canais DVR
+### - (04) Corrige geração de projeto gráfico a partir do link de Ativador Modo Dormir de Room Control
+### - Corrige exibição de dispositivos Integração no projeto gráfico. Em algumas situações drivers que não deveriam aparecer eram exibidos
+### - Corrige alteração de IP na tela de rede
 
 # Config 2.0.0 Build(96) - 14/02/2023
 ## Correções:
