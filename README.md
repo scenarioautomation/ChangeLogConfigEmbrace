@@ -5,18 +5,28 @@
 ### 04 - Ao remover um link de modo dormir, o projeto gráfico não é gerado novamente
 ### 05 - Filtro da árvore de ambientes, manter estado da árvore antes do filtro
 ### 06 - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
-### 07 - Icone de alguns itens desaparem da árvore em situações especificas
-### 08 - Na tela de projeto grafico, os indices de blocos de driver de integração não são exibidos
-### 09 - Remover scroll da barra horizontal de NTL(tela de informações)
+### 07 - OK - Icone de alguns itens desaparem da árvore em situações especificas 
+### 08 - OK - Na tela de projeto grafico, os indices de blocos de driver de integração não são exibidos  
+### 09 - OK - Remover scroll da barra horizontal de NTL(tela de informações) 
 ### 10 - Seta movimenta itens na árvore mas não atualiza na tela central do Config
 ### 11 - Algumas vezes as progressbar somem
-### 12 - Algumas vezes na tela de RC e Cenas as scroll bar aparecem em ambas as treeview(deveria ser 1 global)
+### 12 - OK - Algumas vezes na tela de RC e Cenas as scroll bar aparecem em ambas as treeview(deveria ser 1 global) 
 ### 13 - Importação de driver JAVA("esquema usuario")
 ### 14 - Modo Teste de driver
 ### 15 - Função de "Teste de dispositivo"
 ### 16 - Ao remover e adicionar links no ativador do modo dormir não está gerando projeto gráfico
 ### 17 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
 ### 18 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
+
+# Config 2.0.0 Build(96) - 14/02/2023
+## Correções:
+### - Corrige geração de CAT de Ar Condicionado
+### - Corrige comandos exibidos vazios na tela de configuração de Macros
+### - Corrige carregamento da árvore de projeto na tela de Macros
+### - (09) Corrige scroll horizontal na lista de NTLs da Controladora
+### - (07) Corrige exibição de ícones desaparecendo das árvores
+### - (08) Na tela de projeto grafico, os indices de blocos de driver de integração não são exibidos
+### - (12) Corrige barras de rolagem horizontais nas telas de configuração
 
 # Config 2.0.0 Build(95) - 13/02/2023
 ## Correções:
