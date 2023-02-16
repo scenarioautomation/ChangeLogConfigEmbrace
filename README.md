@@ -14,9 +14,21 @@
 ### 13 - Importação de driver JAVA("esquema usuario")
 ### 14 - Modo Teste de driver
 ### 15 - Função de "Teste de dispositivo"
-### 16 - Ao remover e adicionar links no ativador do modo dormir não está gerando projeto gráfico
-### 17 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
-### 18 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
+### 16 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
+### 17 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
+
+# Config 2.0.0 Build (98) - 16/02/2023
+## Feature:
+### - Implementa copiar dados da controladora pelo atalho CTRL+C
+### - Implementa verificação de nome de projeto vazio, evitando assim problemas na AC
+
+## Correções:
+### - Corrige falha no envio de projeto gráfico devido ao salvamento do projeto durante o envio. O problema ocorria com projetos gráficos Custom
+### - Corrige exibição do nome dos itens de rede na árvore de dispositivos
+### -  Corrige unidade de frequência de comandos IR de MHz para KHz
+### - Corrige icones desaparecendo das árvores com checkbox
+### - Corrige validação de textos nos condicionais de comandos com links Data/Hora
+### - Corrige remoção de ambientes e pastas com blocos deslocados
 
 # Config 2.0.0 Build(97) - 14/02/2023
 ## Correções:
