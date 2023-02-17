@@ -17,6 +17,21 @@
 ### 16 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
 ### 17 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
 
+# Config 2.0.0 Build (101) - 17/02/2023
+## Correções:
+### - Corrige comparação de data no envio de projeto gráfico.
+### - Corrige carregamento de projeto gráfico com nome vinculado ao projeto.
+### - Otimiza extração de zip do projeto gráfico.
+### - Corrige alteração de projeto após salvamento durante envio.
+
+# Config 2.0.0 Build (99) - 16/02/2023
+## Correções:
+### - Corrige geração de projeto gráfico com a mudança de atributos dos itens do projeto. Agora caso um item seja alterado, ele só afeta aos projetos em que ele está inserido
+### - Substituição de drivers RF copiam o respectivo HUB e frequência do driver substituído
+### - Suporte a versão 2 de atividades AV para drivers de integração
+### - Remove senha dos projetos enviados para AC
+### - Corrige títulos e textos dos relatórios do Config
+
 # Config 2.0.0 Build (98) - 16/02/2023
 ## Feature:
 ### - Implementa copiar dados da controladora pelo atalho CTRL+C
