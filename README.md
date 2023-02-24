@@ -17,6 +17,24 @@
 ### 16 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
 ### 17 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
 
+# Config 2.0.0 Build (102) - 24/02/2023
+## Features:
+### - Modo teste de drivers IR, IP e Serial
+### - Modo teste da MPL4-4R
+
+## Correções:
+### - Corrige falha de carregamento de projetos custom
+### - Corrige exibição das etapas de envio de projeto
+### - Corrige exibição de componentes da tela de atividades AV
+### - Corrige atualização de itens Power/Input de drivers integração na geração de atividades AV
+### - Corrige recortar comandos de macro
+### - Corrige campos de edição de conexões dos drivers
+### - Corrige fechamento da tela de driver ao alternar entre as abas do Config
+### - Corrige carregamento de cortinas sem link de cortina fechada
+### - Corrige salvamento dos atributos de BaudRate, tempo de desconexão e bits de dados dos drivers
+### - Corrige geração de projeto gráfico com links dos botões de Keypad E-App
+### - Corrige salvamento de saídas seriais de IRS
+
 # Config 2.0.0 Build (101) - 17/02/2023
 ## Correções:
 ### - Corrige comparação de data no envio de projeto gráfico.
