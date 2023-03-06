@@ -17,6 +17,26 @@
 ### 16 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
 ### 17 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
 
+# Config 2.0.0 Build (103) - 06/03/2023
+## Features: 
+### - Protótipo da tela de abertura do Config
+### - Permite seleção de comandos condicionais com Dia da semana por Combobox
+### - Permite seleção de comandos condicionais com Mês por Combobox
+### - Teste de dispositivo de rede
+### - Habilita seleção de Localização personalizada na tela de informações
+### - Habilita seleção de todos os dispositivos do projeto na árvore de Desliga Geral
+### - Opção de sensibilidade nos Sensores SMT
+
+## Correções:
+### - Corrige carregamento de blocos integração na geração e edição de atividades áudio/vídeo
+### - Corrige analógicos links do módulo dia noite que se comportam apenas como saída (dia, mês, hora, etc.)
+### - Corrige geração de Guia TV em ambientes com atividades que chamam dispositivos GuiaTV de outros ambientes
+### - Corrige ordenação de dispositivos de atividades em ambientes na App
+### - Corrige salvamento das Observações do Projeto
+### - Corrige salvamento das Auxiliares dos módulos
+### - Corrige salvamento do interlock dos reles dos módulos RLY2 e RLY2DC Wifi
+### - Corrige exibição de mensagens de erro no envio de projeto
+
 # Config 2.0.0 Build (102) - 24/02/2023
 ## Features:
 ### - Modo teste de drivers IR, IP e Serial
