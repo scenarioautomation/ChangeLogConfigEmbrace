@@ -17,6 +17,32 @@
 ### 16 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
 ### 17 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
 
+# Config 2.0.0 Build (104) - 10/03/2023
+## Correções:
+### - Corrige carregamento de cidades
+### - Corrige ordenação da Pasta Atividades Globais na árvore do projeto
+### - Corrige tipo de conexão salva no Sensor de Movimento
+### - Corrige verificação de sensores na geração do cat de Iluminação
+### - Corrige atributo de GuiaTV em Projeto gráfico Custom
+### - Corrige salvamento da macro de Guia TV dos dispositivos
+### - Corrige comandos de assistente virtual para atividades Globais e cortinas
+### - Corrige substituição de blocos de drivers integração
+### - Corrige nome de dispositivos de rede vinculados ao projeto no teste das funções de Driver
+### - Corrige acionamento dos leds do modo teste da EB-MPL4-4R
+### - Corrige verificação de mensagem de driver editado
+### - Corrige conversão de funções em String para Hexadecimal
+### - Corrige remoção da pasta atividades da árvore do projeto quando ela está vazia
+### - Corrige exibição do nome de blocos de drivers integração no projeto gráfico
+### - Corrige exibição de NTL em estado Bootloader após envio de firmware
+### - Corrige comparação de modelo de dispositivo (Impedia o envio de firmware para alguns itens wifi)
+### - Corrige fechamento da tela de carregamento ao abrir tela de login
+### - Corrige identificação de dispositivos do mesmo tipo
+### - Corrige limites de valores para comandos condicionais nos links de Dia, Hora, Minuto e Segundo
+### - Corrige ligação de AC-Kpul-Mov na IPM36
+### - Corrige mudança de cenas exibirem um botão vazio nos controles da Fita Led no projeto gráfico
+### - Corrige salvamento de conexões de teclas e sensores de KPUL
+### - Corrige carregamento de AC-KPUL
+
 # Config 2.0.0 Build (103) - 06/03/2023
 ## Features: 
 ### - Protótipo da tela de abertura do Config
