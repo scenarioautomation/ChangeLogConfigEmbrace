@@ -17,6 +17,30 @@
 ### 16 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
 ### 17 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
 
+# Config 2.0.0 Build (106) - 16/03/2023
+## Features:
+### - Imagens KPView dos teclados do tipo KPUL-MOV
+### - Atualiza cor do teclado na tela de KPView dinamicamente ao mudar na tela de configuração
+### - Edição do nome de variáveis de tipo Input
+
+## Correções:
+### - Corrige instabilidade no teste de comandos RF433
+### - Corrige carregamento de KPULs
+### - Corrige salvamento de conexões de Entradas e teclas
+### - Corrige carregamento de links de ambiente
+### - Ajusta valores padrão do Módulo Harvesting
+### - Corrige geração de Inteligencia Embrace para Ar condicionado e Iluminação
+### - Corrige renomeação do projeto apagar as imagens de projetos gráficos de usuário
+### - Corrige atualização dos dados de rede ao realizar varredura
+### - Corrige exibição de Dispositivos Guia TV
+### - Corrige copia do offset de temperatura na duplicação de sensores
+### - Corrige foco no campo de nome ao abrir tela de atividades áudio e vídeo
+### - Muda controle de aplicativos externos para combo box filtrável
+### - Ordena aplicativos externos por ordem alfabética
+### - Corrige caracteres especiais na geração do KPView
+### - Corrige volume fixo de drivers integração afetarem projeto gráfico
+### - Corrige tratamento de campos de edição de comandos IR
+
 # Config 2.0.0 Build (104) - 10/03/2023
 ## Correções:
 ### - Corrige carregamento de cidades
