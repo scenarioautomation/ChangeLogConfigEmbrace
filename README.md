@@ -17,6 +17,21 @@
 ### 16 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
 ### 17 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
 
+# Config 2.0.0 Build (107) - 21/03/2023
+## Features:
+### - Backup de projetos Legado na pasta ProjetosV1
+### - Exibição de dispositivos de Rede e Zigbee offline
+### - Nova tela do launcher do Config
+
+## Correções:
+### - Corrige permissões no Windows para listagem de controladoras
+### - Corrige opções de alterar IP, envio de firmware e identificação de dispositivos offline
+### - Corrige atualização da árvore de rede ao carregar novo projeto
+### - Corrige exibição de nome de variável Input na tela de Atividades
+### - Corrige atualização de telas de configuração ao duplicar teclados
+### - Corrige atualização de telas de configuração ao deletar dispositivos com teclas, botões, sensores ou blocos
+### - Corrige carregamento de blocos de drivers integração
+
 # Config 2.0.0 Build (106) - 16/03/2023
 ## Features:
 ### - Imagens KPView dos teclados do tipo KPUL-MOV
