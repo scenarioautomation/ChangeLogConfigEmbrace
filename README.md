@@ -1,21 +1,20 @@
-﻿# Problemas conhecidos
-### 01 - OK - Problema ao mover\reposicionar um item dentro de um ambiente
-### 02 - Falta implementação de modo teste de drivers
-### 03 - OK - Problema ao salvar arquivo de login em alguns casos especificos no MAC, sendo necessário login toda abertura do Config
-### 04 - OK - Ao remover um link de modo dormir, o projeto gráfico não é gerado novamente
-### 05 - Filtro da árvore de ambientes, manter estado da árvore antes do filtro
-### 06 - Adição da opção de varredura de rede\dispositivos ao abrir tela de rede
-### 07 - OK - Icone de alguns itens desaparem da árvore em situações especificas 
-### 08 - OK - Na tela de projeto grafico, os indices de blocos de driver de integração não são exibidos  
-### 09 - OK - Remover scroll da barra horizontal de NTL(tela de informações) 
-### 10 - OK - Seta movimenta itens na árvore mas não atualiza na tela central do Config
-### 11 - Algumas vezes as progressbar somem
-### 12 - OK - Algumas vezes na tela de RC e Cenas as scroll bar aparecem em ambas as treeview(deveria ser 1 global) 
-### 13 - Importação de driver JAVA("esquema usuario")
-### 14 - Modo Teste de driver
-### 15 - Função de "Teste de dispositivo"
-### 16 - Mostrar RLY e outros dispositivos na tela de info do Config quando se conecta na AC
-### 17 - Modo teste demora para exibir os Dbs e consumo no rly2 no modo teste
+﻿# Config 2.0.0 Build (114) - 27/03/2023
+## Correções:
+### - Corrige importação de alterações de projetos gráficos com acentuação no nome
+### - Corrige importação de alterações de projetos gráficos que foram renomeados
+
+
+# Config 2.0.0 Build (113) - 27/03/2023
+## Features:
+### - Adiciona variáveis macro na árvore do projeto na tela de macros
+
+## Correções:
+### - Corrige fechamento de telas de configuração de blocos quando o dispositivo é removido do projeto
+### - Corrige importação de templates
+### - Corrige geração do nome de atividades no E-App relacionados ao CAT de Ar Condicionado
+### - Mantém dados de login de aplicativos importados da E-App
+### - Corrige salvamento de credenciais de login no Linux
+### - Corrige execução do reboot ao atualizar
 
 # Config 2.0.0 Build (107) - 21/03/2023
 ## Features:
