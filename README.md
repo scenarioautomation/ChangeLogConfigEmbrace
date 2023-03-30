@@ -3,6 +3,14 @@
 ### - Corrige importação de alterações de projetos gráficos com acentuação no nome
 ### - Corrige importação de alterações de projetos gráficos que foram renomeados
 
+# Config 2.0.0 Build (116) - 30/03/2023
+## Features:
+### - Opção de Cortina Somfy RF com funcionamento a bateria
+
+## Correções:
+### - Ajustes gerais em telas de informação e configuração
+### - Exibe todas interfaces e projetos gráficos nas informações de controladora
+### - Corrige otimização de rede durante envio de projeto
 
 # Config 2.0.0 Build (113) - 27/03/2023
 ## Features:
