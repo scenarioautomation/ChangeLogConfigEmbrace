@@ -1,4 +1,11 @@
-﻿# Config 2.0.0 Build (117) - 10/04/2023
+﻿# Config 2.0.0 Build (118) - 10/04/2023
+## Features:
+### - Implementa importação de alterações do Constant Light Control (CLC) no envio de projeto
+
+## Correções:
+### - Corrige atualização de drivers integração
+
+# Config 2.0.0 Build (117) - 10/04/2023
 ## Correções:
 ### - Corrige atualização da árvore de rede ao carregar projeto
 ### - Corrige ordem dos canais da MPL4 no modo teste
