@@ -1,7 +1,10 @@
-﻿# Config 2.0.0 Build (114) - 27/03/2023
+﻿# Config 2.0.0 Build (117) - 10/04/2023
 ## Correções:
-### - Corrige importação de alterações de projetos gráficos com acentuação no nome
-### - Corrige importação de alterações de projetos gráficos que foram renomeados
+### - Corrige atualização da árvore de rede ao carregar projeto
+### - Corrige ordem dos canais da MPL4 no modo teste
+### - Corrige limpeza de links e remoção de sensores sem teclas
+### - Corrige situações em que os dados de login removiam caracteres especiais
+### - Corrige tratamento de caminho da pasta padrão de firmwares
 
 # Config 2.0.0 Build (116) - 30/03/2023
 ## Features:
@@ -11,6 +14,11 @@
 ### - Ajustes gerais em telas de informação e configuração
 ### - Exibe todas interfaces e projetos gráficos nas informações de controladora
 ### - Corrige otimização de rede durante envio de projeto
+
+# Config 2.0.0 Build (114) - 27/03/2023
+## Correções:
+### - Corrige importação de alterações de projetos gráficos com acentuação no nome
+### - Corrige importação de alterações de projetos gráficos que foram renomeados
 
 # Config 2.0.0 Build (113) - 27/03/2023
 ## Features:
