@@ -5,6 +5,12 @@
 ## Correções:
 ### - Corrige atualização de drivers integração
 
+# Config 2.0.0 (120) - 12/04/2023
+## Correções:
+### - Otimização no carregamento de telas
+### - Corrige substituição de dispositivos nas atividades AV
+### - Melhorias na atualização de firmware para controladora
+
 # Config 2.0.0 Build (117) - 10/04/2023
 ## Correções:
 ### - Corrige atualização da árvore de rede ao carregar projeto
