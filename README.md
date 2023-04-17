@@ -1,4 +1,9 @@
-﻿# Config 2.0.0 Build (118) - 10/04/2023
+﻿# Config 2.0.0 (121) - 17/04/2023
+## Correções:
+### - Otimização e correções na tela de rede
+### - Ajustes de telas para MacOS
+
+# Config 2.0.0 Build (118) - 10/04/2023
 ## Features:
 ### - Implementa importação de alterações do Constant Light Control (CLC) no envio de projeto
 
