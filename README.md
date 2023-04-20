@@ -1,4 +1,15 @@
-﻿# Config 2.0.0 (121) - 17/04/2023
+﻿# Config 2.0.0 (123) - 20/04/2023
+## Features:
+### - Exibição do caminho do dispositivo nas telas de configuração
+### - Melhoria no campo de instruções de drivers
+### - Verificação de IP existente no projeto ao alterar IP de dispositivos
+
+## Correções:
+### - Finaliza modo teste corretamente ao alternar dispositivos
+### - Melhorias no carregamento de tela( Na verdade é: Corrige aberturas indesejadas de telas ao expandir itens da árvore do projeto, colocaria apenas antes do )
+### - Correção na permissão de ambientes na geração de projeto gráfico com ambientes que possuem apenas Atividades
+
+# Config 2.0.0 (121) - 17/04/2023
 ## Correções:
 ### - Otimização e correções na tela de rede
 ### - Ajustes de telas para MacOS
