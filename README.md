@@ -1,4 +1,24 @@
-﻿# Config 2.0.0 (123) - 20/04/2023
+﻿# Config 2.0.0 (126) - 26/04/2023
+## Features:
+### - Opção de salvar preferências de Room Control
+### - Adiciona Feedback de exibição nos campos de conexões
+### - Exibição do caminho do projeto na barra de status
+### - Adiciona confirmação ao apagar projeto da controladora
+
+## Correções:
+### - Corrige valores padrão nas preferências de Room Control
+### - Corrige movimentação indesejada da árvore do projeto ao renomear dispositivos
+### - Corrige nome do EB-KP6M-4R Wifi nos equipamentos
+
+# Config 2.0.0 (125) - 25/04/2023
+## Features:
+### - Opção de importação de temas do editor gráfico (apenas em Windows)
+### - Adiciona opção de pesquisa na tela de seleção de equipamentos
+
+## Correções:
+### - Corrige exibição de dispositivos de rede desatualizados no projeto 
+
+# Config 2.0.0 (123) - 20/04/2023
 ## Features:
 ### - Exibição do caminho do dispositivo nas telas de configuração
 ### - Melhoria no campo de instruções de drivers
